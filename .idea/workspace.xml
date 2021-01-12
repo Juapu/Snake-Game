@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a83e3172-3659-4c75-9f14-bd614fd7edbb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/nibbles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw1/CompoundInterest/CompoundInterestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/CompoundInterest/CompoundInterestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw9/NFA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw9/NFA.java" afterDir="false" />
     </list>
@@ -19,7 +21,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1mlt5UxK2Y36qi3dkflgd1O0YXR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -91,22 +94,22 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="702" y="62" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1610427818567" />
-    <state width="742" height="235" key="GridCell.Tab.0.bottom" timestamp="1610428015053">
+    <state width="742" height="235" key="GridCell.Tab.0.bottom" timestamp="1610428899486">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="742" height="235" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610428015053" />
-    <state width="742" height="235" key="GridCell.Tab.0.center" timestamp="1610428015051">
+    <state width="742" height="235" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610428899486" />
+    <state width="742" height="235" key="GridCell.Tab.0.center" timestamp="1610428899485">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="742" height="235" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610428015051" />
-    <state width="742" height="235" key="GridCell.Tab.0.left" timestamp="1610428015050">
+    <state width="742" height="235" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610428899485" />
+    <state width="742" height="235" key="GridCell.Tab.0.left" timestamp="1610428899485">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="742" height="235" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610428015050" />
-    <state width="742" height="235" key="GridCell.Tab.0.right" timestamp="1610428015052">
+    <state width="742" height="235" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610428899484" />
+    <state width="742" height="235" key="GridCell.Tab.0.right" timestamp="1610428899485">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="742" height="235" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610428015052" />
+    <state width="742" height="235" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610428899485" />
     <state x="640" y="199" key="Vcs.Push.Dialog.v2" timestamp="1610428341370">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -115,5 +118,9 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="747" y="291" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1610079831316" />
+    <state x="858" y="383" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610429037700">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="858" y="383" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875@0.25.1440.875" timestamp="1610429037700" />
   </component>
 </project>
