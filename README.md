@@ -1,5 +1,5 @@
 ## Snake Game
-![Snake](https://github.com/Juapu/Snake-Game/Snake.jpg?raw=true)
+![Snake](Snake.png)
 ## Introduction
 Snake or Nibbler, as sometimes referred to, is a game where a player controls a dot or square which continues to grow as the snake consumes apples. As the snake continues to grow it becomes increasingly difficult to avoid collisions with itself.
 
