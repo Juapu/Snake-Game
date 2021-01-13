@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a83e3172-3659-4c75-9f14-bd614fd7edbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nibbles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nibbles/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/out/production/gui/META-INF/gui.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/tests/MyDrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/tests/SimpleAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/tests/SimpleGui1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/tests/TwoButtons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Game$Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Game$Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Graphics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeGame/nibbles/UnitTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nibbles/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nibbles/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nibbles/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nibbles/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nibbles/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nibbles/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nibbles/Graphics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nibbles/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nibbles/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nibbles/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nibbles/UnitTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610429079239</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idk">
+      <created>1610429581652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610429581652</updated>
+    </task>
+    <task id="LOCAL-00003" summary="idk">
+      <created>1610429820636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610429820636</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -90,34 +123,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="idk" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="807" y="235" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1610434860572">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="807" y="235" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875@0.25.1440.875" timestamp="1610434860572" />
     <state x="369" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610428039639">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="369" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1610428039639" />
-    <state x="1056" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1610244751418">
+    <state x="1056" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1610477305253">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="1056" y="176" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1610244751418" />
-    <state x="702" y="62" key="CommitChangelistDialog2" timestamp="1610429078537">
+    <state x="1056" y="176" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1610477305253" />
+    <state x="702" y="62" key="CommitChangelistDialog2" timestamp="1610429820623">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="702" y="62" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1610429078537" />
-    <state width="742" height="235" key="GridCell.Tab.0.bottom" timestamp="1610429389018">
+    <state x="702" y="62" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1610429820623" />
+    <state width="840" height="235" key="GridCell.Tab.0.bottom" timestamp="1610516011332">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="742" height="235" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610429389018" />
-    <state width="742" height="235" key="GridCell.Tab.0.center" timestamp="1610429389016">
+    <state width="840" height="235" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610516011332" />
+    <state width="840" height="235" key="GridCell.Tab.0.center" timestamp="1610516011331">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="742" height="235" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610429389016" />
-    <state width="742" height="235" key="GridCell.Tab.0.left" timestamp="1610429389015">
+    <state width="840" height="235" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610516011331" />
+    <state width="840" height="235" key="GridCell.Tab.0.left" timestamp="1610516011330">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="742" height="235" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610429389015" />
-    <state width="742" height="235" key="GridCell.Tab.0.right" timestamp="1610429389017">
+    <state width="840" height="235" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610516011330" />
+    <state width="840" height="235" key="GridCell.Tab.0.right" timestamp="1610516011332">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="742" height="235" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610429389017" />
+    <state width="840" height="235" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610516011332" />
     <state width="742" height="290" key="GridCell.Tab.1.bottom" timestamp="1610429358971">
       <screen x="0" y="25" width="1440" height="875" />
     </state>

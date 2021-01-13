@@ -2,9 +2,7 @@ package nibbles;
 
 /** Represents a position on the board. Positions are indexed from (0,0)
  * (lower-left corner) to (BOARD_SIZE - 1, BOARD_SIZE - 1) (upper-right).
- *
- *
- *
+ * @author Justin Pau
  */
 public class Cell {
     /** The row and column that this cell is located. */
